@@ -1,0 +1,14 @@
+## Pre-requisites
+Download and unzip the project
+Please, ensure you have 'Node Js' and cypress installed in your machine
+
+## Installation
+Install project dependencies with: npm i
+
+## Running the test: 
+ - Open the terminal and run: npx cypress open (select appropriate browser and feature file to execute)
+ - Open the terminal and run: npm run cypress:execution (Headless)
+
+## Execution Recording: 
+Video of execution could be found at the directory below on your machine:
+./cypress/videos
